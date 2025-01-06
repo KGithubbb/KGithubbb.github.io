@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random English Word</title>
+    <style>
+        :root {
+            --bg-color: #ffffff;
+            --text-color: #000000;
+        }
+
+        [data-theme="dark"] {
+            --bg-color: #121212;
+            --text-color: #ffffff;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        .switch-button, .refresh-button, .source-button {
+            background: none;
+            border: 1px solid var(--text-color);
+            padding: 5px 10px;
+            color: var(--text-color);
+            cursor: pointer;
+        }
+
+        .switch-button {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        .refresh-button {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+
+        .source-button {
+            position: absolute;
+            top: 10px;
+            left: 100px; /* Refreshボタンの隣 */
+        }
+
+        .word {
+            margin: 20px 0;
+        }
+
+        .example {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- リフレッシュボタン -->
+    <button class="refresh-button" onclick="location.reload()">Refresh</button>
+    <!-- ソースコードボタン -->
+    <button class="source-button" onclick="goToSource()">Source Code</button>
+    <!-- ダークモード切り替えボタン -->
+    <button class="switch-button" onclick="toggleTheme()">Switch Color</button>
+
+    <div class="container">
+        <div id="word-display">
+            <div class="word">
+                <h1>Loading...</h1>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const THEME_KEY = 'theme'; // テーマを保存するキー
+
+        // ランダムな単語を取得する関数
+        async function fetchRandomWord() {
+            try {
+                const response = await fetch('words.txt'); // words.txt のパス
+                const text = await response.text();
+                const lines = text.trim().split('\n');
+                const randomLine = lines[Math.floor(Math.random() * lines.length)];
+                const [number, word, englishMeaning, japaneseMeaning, examples] = randomLine.split(',');
+
+                document.getElementById('word-display').innerHTML = `
+                    <div class="word">
+                        <font size="+3">No${number}. ${word}</font>
+                        <p><strong>English Meaning:</strong> ${englishMeaning}</p>
+                        <p><strong>Japanese Meaning:</strong> ${japaneseMeaning}</p>
+                        <br>
+                        <div class="examples">
+                            ${examples.split(';').map((example, i) => `<p><strong>Example ${i + 1}:</strong> ${example}</p>`).join('')}
+                        </div>
+                    </div>
+                `;
+            } catch (error) {
+                document.getElementById('word-display').innerHTML = '<p>Error loading words.</p>';
+                console.error('Error fetching or parsing words.txt:', error);
+            }
+        }
+
+        // ダークモード/ライトモードを切り替える関数
+        function toggleTheme() {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? '' : 'dark';
+            document.documentElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem(THEME_KEY, newTheme); // テーマを保存
+        }
+
+        // テーマを復元する関数
+        function restoreTheme() {
+            const savedTheme = localStorage.getItem(THEME_KEY);
+            if (savedTheme) {
+                document.documentElement.setAttribute('data-theme', savedTheme);
+            }
+        }
+
+        // ソースコードページに移動する関数
+        function goToSource() {
+            const baseUrl = 'https://github.com/your-repo/random-word'; // ソースコードのURLを指定
+            window.location.href = baseUrl;
+        }
+
+        // 初期化処理
+        restoreTheme(); // テーマを復元
+        fetchRandomWord(); // 単語を取得
+    </script>
+</body>
+</html>

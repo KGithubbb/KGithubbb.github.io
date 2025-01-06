@@ -1,0 +1,3 @@
+1,Test,To test,テストする,I tested a man to check his skill.;Test is the best thing to do.;Testing if I can improve myself
+2,Run,To move quickly,走る,He runs every morning.;I saw a man running fast.;She is running late today.
+3,Jump,To leap,跳ぶ,He jumped over the fence.;She jumped with joy.;The cat jumped onto the table.

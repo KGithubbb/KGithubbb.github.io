@@ -16,7 +16,7 @@
 16,compose,to create or write something,作曲する、構成する,He began to compose a beautiful piece of music;The writer composed a letter to his friend;The committee will compose a report based on the findings.
 17,misunderstand,to interpret something incorrectly,誤解する,I think you misunderstood what I meant;He misunderstood the instructions and made a mistake;She misunderstood his intentions and felt hurt.
 18,deserve,to be worthy of something,値する,You deserve a break after all your hard work;She deserves recognition for her dedication;He deserves to be promoted for his excellent performance.
-19,peer,a person of the same age, status, or ability as another,同僚、仲間,She discussed the issue with her peers to get feedback;Peers often influence each other in their decisions;He was respected by his peers for his knowledge and skills.
+19,peer,a person of the same age or status or ability as another,同僚、仲間,She discussed the issue with her peers to get feedback;Peers often influence each other in their decisions;He was respected by his peers for his knowledge and skills.
 20,defeat,to win a victory over someone or something,打ち負かす、敗北,They managed to defeat their opponents in the final match;The team suffered a devastating defeat in the championship;The army was able to defeat the enemy forces after a long battle.
 21,convert,to change from one form or use to another,変換する、転換する,He decided to convert the old warehouse into a modern office space;The company is looking to convert their energy sources to renewable ones;She converted to a different religion after much thought.
 22,wed,to marry or unite in marriage,結婚する,They decided to wed in a small ceremony by the beach;She was delighted to wed the love of her life;They wed after several years of dating.
@@ -44,7 +44,7 @@
 44,pure,not mixed with anything else,純粋な,The air in the mountains is pure and fresh;She has pure intentions and wants to help others;He admires her for her pure heart and kindness.
 45,incredible,difficult to believe; extraordinary,信じられない、驚くべき,The view from the top of the mountain was incredible;The magician performed an incredible trick;She had an incredible talent for playing the piano.
 46,eager,keen or enthusiastic to do something,熱心な、切望する,He was eager to start his new job;She was eager to learn more about the subject;They were eager to meet the famous author.
-47,adequate,sufficient or acceptable in quality,十分な、適切な,The room was adequate for their needs;She felt the report was adequate, but could be improved;He gave an adequate explanation of the problem.
+47,adequate,sufficient or acceptable in quality,十分な、適切な,The room was adequate for their needs;She felt the report was adequate but could be improved;He gave an adequate explanation of the problem.
 48,via,through a particular route or means,経由で,She sent the document via email;We will travel via train to the destination;He communicated with his clients via phone calls.
 49,unfamiliar,not known or recognized,馴染みのない,The road seemed unfamiliar to him;She felt unfamiliar with the local customs;The language was unfamiliar, making it difficult to understand.
 50,subtle,delicate or not obvious,微妙な,His hints were subtle but clear;She noticed the subtle changes in his behavior;The artwork had subtle details that were easy to miss.
@@ -52,9 +52,9 @@
 52,marine,related to the sea or ocean,海洋の,The marine animals swam gracefully through the water;They studied marine biology in college;The ship was equipped with marine navigation systems.
 53,apparent,clearly visible or understood,明らかな,The problem was apparent from the start;It became apparent that the project would be delayed;Her happiness was apparent to everyone around her.
 54,reluctant,unwilling or hesitant,気が進まない,He was reluctant to accept the job offer;She was reluctant to speak in front of the large crowd;They were reluctant to leave the party early.
-55,temporary,lasting for only a limited time,一時的な,The job was temporary, lasting only a few months;We stayed in a temporary shelter after the earthquake;The changes are only temporary and will be reviewed.
+55,temporary,lasting for only a limited time,一時的な,The job was temporary lasting only a few months;We stayed in a temporary shelter after the earthquake;The changes are only temporary and will be reviewed.
 56,guilty,having committed a crime or wrongdoing,罪のある、有罪の,She felt guilty for not attending the meeting;He was found guilty of the charges and sentenced to prison;The guilty man admitted to the crime.
-57,platform,a flat surface or stage for activities,プラットフォーム,The train arrived at the platform on time;The company launched a new platform for online learning;The politician stood on a platform advocating for change.
+57,platform,a flat surface or stage for activities,プラットフォーム、演壇,The train arrived at the platform on time;The company launched a new platform for online learning;The politician stood on a platform advocating for change.
 58,sector,a specific area or division of a larger organization,部門、分野,The private sector is growing rapidly in the economy;They belong to the healthcare sector and work with patients;The energy sector is focusing on renewable sources.
-59,channel,a means of communication or a waterway,チャンネル,The news channel covered the breaking story;He used a private channel to discuss the matter;The channel connects two bodies of water.
+59,channel,a means of communication or a waterway,チャンネル、経路,The news channel covered the breaking story;He used a private channel to discuss the matter;The channel connects two bodies of water.
 60,glacier,a large mass of ice moving slowly over land,氷河,The glacier slowly moved down the mountain;They hiked to the top of the glacier;The climate change is affecting the glaciers worldwide.

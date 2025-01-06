@@ -1,3 +1,119 @@
-1,Test,To test,テストする,I tested a man to check his skill.;Test is the best thing to do.;Testing if I can improve myself
-2,Run,To move quickly,走る,He runs every morning.;I saw a man running fast.;She is running late today.
-3,Jump,To leap,跳ぶ,He jumped over the fence.;She jumped with joy.;The cat jumped onto the table.
+1,punish,to inflict a penalty for an offense or wrongdoing,処罰する,The teacher decided to punish the student for cheating on the test;Parents often punish their children when they misbehave;The law will punish anyone caught breaking the rules.
+
+2,ruin,to destroy or spoil completely,台無しにする,The fire ruined their entire house;His careless actions could ruin everything they’ve worked for;The storm ruined their vacation plans.
+
+3,defend,to protect from harm or danger,守る,The lawyer will defend the accused in court;Soldiers defend their country from invaders;She tried to defend her ideas during the meeting.
+
+4,embrace,to hold someone closely in one's arms or to accept something willingly,抱きしめる、受け入れる,They embraced each other after a long separation;He decided to embrace the new opportunities that came his way;She embraced the idea of moving to a new city.
+
+5,modify,to change or alter something,修正する,She asked the designer to modify the dress for a better fit;They decided to modify the plan after considering new information;The software allows users to modify their settings.
+
+6,quality,the standard or characteristic of something,質、品質,The quality of the product was far superior to others;They are focused on improving the quality of education;The restaurant is known for its high-quality service.
+
+7,passion,a strong feeling of enthusiasm or excitement,情熱,He spoke with passion about his work;She has a passion for helping others;The team played with passion, determined to win.
+
+8,enthusiasm,intense interest or eagerness,熱意,Her enthusiasm for the project was contagious;The crowd cheered with enthusiasm as the band took the stage;He approached the challenge with great enthusiasm.
+
+9,impose,to force something to be accepted or put in place,課す、押し付ける,The government decided to impose new regulations;She didn't want to impose on her friends, so she stayed at a hotel;The teacher imposed a strict deadline on the project.
+
+10,rescue,to save from danger or harm,救助する,Firefighters rescued the family from the burning building;The lifeboat was sent to rescue the stranded sailors;She was rescued from the dangerous situation just in time.
+
+11,resolve,to find a solution or make a decision,解決する、決心する,They worked together to resolve the issue;He resolved to improve his time management skills;The dispute was resolved peacefully.
+
+12,register,to officially enter or sign up for something,登録する,You need to register for the event in advance;He forgot to register his car before the deadline;She registered for the online course to learn new skills.
+
+13,interrupt,to stop or break in the middle of something,中断する,Please don’t interrupt when someone is speaking;The meeting was interrupted by an urgent phone call;She interrupted his presentation with a question.
+
+14,rid,to remove or get free of something,取り除く,We need to rid the house of pests;She was finally rid of the bad habits that were holding her back;He wanted to rid himself of all the clutter in his life.
+
+15,prohibit,to formally forbid or prevent something,禁止する,The law prohibits smoking in public places;The school prohibits the use of mobile phones during class;They decided to prohibit all forms of cheating in the competition.
+
+16,compose,to create or write something,作曲する、構成する,He began to compose a beautiful piece of music;The writer composed a letter to his friend;The committee will compose a report based on the findings.
+
+17,misunderstand,to interpret something incorrectly,誤解する,I think you misunderstood what I meant;He misunderstood the instructions and made a mistake;She misunderstood his intentions and felt hurt.
+
+18,deserve,to be worthy of something,値する,You deserve a break after all your hard work;She deserves recognition for her dedication;He deserves to be promoted for his excellent performance.
+
+19,peer,a person of the same age, status, or ability as another,同僚、仲間,She discussed the issue with her peers to get feedback;Peers often influence each other in their decisions;He was respected by his peers for his knowledge and skills.
+
+20,defeat,to win a victory over someone or something,打ち負かす、敗北,They managed to defeat their opponents in the final match;The team suffered a devastating defeat in the championship;The army was able to defeat the enemy forces after a long battle.
+
+21,convert,to change from one form or use to another,変換する、転換する,He decided to convert the old warehouse into a modern office space;The company is looking to convert their energy sources to renewable ones;She converted to a different religion after much thought.
+
+22,wed,to marry or unite in marriage,結婚する,They decided to wed in a small ceremony by the beach;She was delighted to wed the love of her life;They wed after several years of dating.
+
+23,delight,great pleasure or joy,喜び、楽しませる,The news brought great delight to everyone in the room;He took delight in helping others achieve their goals;The performance was a delight to watch.
+
+24,boost,to increase or improve something,増強する、促進する,The new advertisement helped boost sales significantly;Exercise can help boost your energy levels;She hoped the donation would boost the charity’s efforts.
+
+25,endure,to suffer patiently or to last for a long time,耐える、持続する,They endured through difficult times and came out stronger;He had to endure the harsh conditions of the desert;The bridge is built to endure strong winds.
+
+26,correspond,to match or be similar to something,一致する、通信する,Their goals correspond with the company's mission;We regularly correspond with our clients via email;The results of the experiment correspond with the hypothesis.
+
+27,command,to give an order or instruction,命令する、指揮する,The general gave a command to the troops;He commanded respect from his colleagues;The officer commanded the soldiers to advance.
+
+28,occupy,to take control or be present in a place,占める、占有する,They occupy the largest building in the city center;The children occupied themselves with toys during the meeting;The army will occupy the area until further orders.
+
+29,pop,to burst or make a sudden noise,弾ける、現れる,The balloon popped when it touched the hot stove;He suddenly popped into the room unannounced;The cork popped off the bottle with a loud noise.
+
+30,pile,to stack or gather things in a heap,積み重ねる、積み重なったもの,She piled the books on the table;There was a pile of snow outside the door;They had to pile the clothes into the laundry basket.
+
+31,greet,to welcome or acknowledge someone,挨拶する,She greeted her friends with a warm smile;The guests were greeted with drinks upon arrival;They greet each other every morning with a handshake.
+
+32,apologize,to express regret for something,謝る,He apologized for being late to the meeting;She apologized for her harsh words;The company issued a statement to apologize for the mistake.
+
+33,frustrate,to cause someone to feel upset or discouraged,イライラさせる、挫折させる,The constant delays began to frustrate everyone;It frustrates me when people don't listen to my ideas;He was frustrated by the lack of progress.
+
+34,relieve,to ease or alleviate pain or stress,和らげる、解放する,The medication helped relieve the pain;She felt relieved when she heard the good news;They worked to relieve the suffering of the refugees.
+
+35,derive,to obtain or come from something,得る、由来する,They derived pleasure from helping others;Many words in English derive from Latin;She derived great satisfaction from completing the project.
+
+36,assess,to evaluate or judge something,評価する、査定する,The teacher will assess the students' performance at the end of the term;The committee assessed the damage caused by the storm;He was asked to assess the risks involved in the project.
+
+37,approve,to officially accept or agree to something,承認する、賛成する,The board will approve the budget next week;She approved the changes made to the design;The proposal was approved by the majority.
+
+38,remark,to make a comment or statement,言う、コメントする,He made a remark about the weather during the meeting;Her remark about the book sparked a long discussion;The teacher made a remark about the student's progress.
+
+39,pose,to assume a particular attitude or position,ポーズを取る、質問する,She posed for a picture with her friends;The politician posed a difficult question to the audience;He posed in front of the camera for the photo shoot.
+
+40,yield,to produce or give way,産出する、譲る,The farm yields a large amount of produce each year;She yielded to his request after much persuasion;The company expects to yield high profits from their new product.
+
+41,exhibit,to display or show something publicly,展示する、示す,The museum will exhibit rare artifacts next month;She exhibited great talent in her painting;The artist decided to exhibit her work in the gallery.
+
+42,distribution,the process of spreading or handing out something,配分、分布,The distribution of goods was delayed due to the storm;The company is responsible for the distribution of products worldwide;He volunteered to help with the distribution of food at the event.
+
+43,royal,relating to a king or queen,王室の,The royal family attended the ceremony;The castle was a royal residence for centuries;She wore a royal gown for the gala.
+
+44,pure,not mixed with anything else,純粋な,The air in the mountains is pure and fresh;She has pure intentions and wants to help others;He admires her for her pure heart and kindness.
+
+45,incredible,difficult to believe; extraordinary,信じられない、驚くべき,The view from the top of the mountain was incredible;The magician performed an incredible trick;She had an incredible talent for playing the piano.
+
+46,eager,keen or enthusiastic to do something,熱心な、切望する,He was eager to start his new job;She was eager to learn more about the subject;They were eager to meet the famous author.
+
+47,adequate,sufficient or acceptable in quality,十分な、適切な,The room was adequate for their needs;She felt the report was adequate, but could be improved;He gave an adequate explanation of the problem.
+
+48,via,through a particular route or means,経由で,She sent the document via email;We will travel via train to the destination;He communicated with his clients via phone calls.
+
+49,unfamiliar,not known or recognized,馴染みのない,The road seemed unfamiliar to him;She felt unfamiliar with the local customs;The language was unfamiliar, making it difficult to understand.
+
+50,subtle,delicate or not obvious,微妙な,His hints were subtle but clear;She noticed the subtle changes in his behavior;The artwork had subtle details that were easy to miss.
+
+51,plain,simple or not decorated,質素な、平易な,The design was plain but elegant;He wore a plain shirt without any patterns;The plain fields stretched for miles.
+
+52,marine,related to the sea or ocean,海洋の,The marine animals swam gracefully through the water;They studied marine biology in college;The ship was equipped with marine navigation systems.
+
+53,apparent,clearly visible or understood,明らかな,The problem was apparent from the start;It became apparent that the project would be delayed;Her happiness was apparent to everyone around her.
+
+54,reluctant,unwilling or hesitant,気が進まない,He was reluctant to accept the job offer;She was reluctant to speak in front of the large crowd;They were reluctant to leave the party early.
+
+55,temporary,lasting for only a limited time,一時的な,The job was temporary, lasting only a few months;We stayed in a temporary shelter after the earthquake;The changes are only temporary and will be reviewed.
+
+56,guilty,having committed a crime or wrongdoing,罪のある、有罪の,She felt guilty for not attending the meeting;He was found guilty of the charges and sentenced to prison;The guilty man admitted to the crime.
+
+57,platform,a flat surface or stage for activities,プラットフォーム,The train arrived at the platform on time;The company launched a new platform for online learning;The politician stood on a platform advocating for change.
+
+58,sector,a specific area or division of a larger organization,部門、分野,The private sector is growing rapidly in the economy;They belong to the healthcare sector and work with patients;The energy sector is focusing on renewable sources.
+
+59,channel,a means of communication or a waterway,チャンネル,The news channel covered the breaking story;He used a private channel to discuss the matter;The channel connects two bodies of water.
+
+60,glacier,a large mass of ice moving slowly over land,氷河,The glacier slowly moved down the mountain;They hiked to the top of the glacier;The climate change is affecting the glaciers worldwide.
